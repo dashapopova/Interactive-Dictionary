@@ -3,17 +3,17 @@
 **Руководитель:** Даша Попова ([почта](mailto:daschapopowa@gmail.com))
 
 **Участники:**
-* -- прошлого года:
-* Валерия Морозова ([почта](mailto:tito_alba@mail.ru)), 
-* Тимур Жетписов ([почта](mailto:volponebt@gmail.com)),
-* Эдуард Григорьев ([почта](mailto:happypuffin7@gmail.com)), 
-* Наталья Озерчук ([почта](mailto:fishow36@gmail.com)),
-* Анастасия Макунина ([почта](mailto:asetorn@gmail.com)),
-* Галина Рязанская ([почта](mailto:galka1999@gmail.com)) (пока на стажировке)
-* -- этого года:
-* Леонова Елизавета ([почта](mailto:eeleonova_1@edu.hse.ru))
-* Анна Им ([почта](mailto:akim_1@edu.hse.ru))
-* Анна Евтодиева ([почта](mailto:aniatta1999@gmail.com))
+* прошлого года:
+  - Валерия Морозова ([почта](mailto:tito_alba@mail.ru)), 
+  - Тимур Жетписов ([почта](mailto:volponebt@gmail.com)),
+  - Эдуард Григорьев ([почта](mailto:happypuffin7@gmail.com)), 
+  - Наталья Озерчук ([почта](mailto:fishow36@gmail.com)),
+  - Анастасия Макунина ([почта](mailto:asetorn@gmail.com)),
+  - Галина Рязанская ([почта](mailto:galka1999@gmail.com)) (пока на стажировке)
+* этого года:
+  - Леонова Елизавета ([почта](mailto:eeleonova_1@edu.hse.ru))
+  - Анна Им ([почта](mailto:akim_1@edu.hse.ru))
+  - Анна Евтодиева ([почта](mailto:aniatta1999@gmail.com))
 
 #### Описание проекта:
 
