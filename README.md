@@ -9,7 +9,7 @@
 * Наталья Озерчук ([почта](mailto:fishow36@gmail.com)),
 * Анастасия Макунина ([почта](mailto:asetorn@gmail.com)),
 * Галина Рязанская ([почта](mailto:galka1999@gmail.com)) (пока на стажировке)
-* Леонова Елизавета([почта](mailto:eeleonova_1@edu.hse.ru))
+* Леонова Елизавета ([почта](mailto:eeleonova_1@edu.hse.ru))
 * Анна Им ([почта](mailto:akim_1@edu.hse.ru))
 * Анна Евтодиева ([почта](mailto:aniatta1999@gmail.com))
 
@@ -30,7 +30,7 @@
 5. [список слов с определениями и с примерами для последующего добавления в словарь](https://docs.google.com/document/d/1Hsk6Wy5AaYlIgYOE2jQjxuJY2huhjQetD9_HcYsppNU/edit?usp=sharing) -- сделано, Настя, Тимур
 
 6. в процессе:
-+ возможность ставить лайки и дислайки определениям -- почти сделано, [пока что лайки привязываются к словам](https://github.com/luckysandra/Interactive-Dictionary)
++ возможность ставить лайки и дислайки определениям -- почти сделано, Лиза ([пока что лайки привязываются к словам](https://github.com/luckysandra/Interactive-Dictionary))
 + счётчик лайков и дислайков -- сделано, Лиза
 
 7. в планах:
